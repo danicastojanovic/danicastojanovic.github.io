@@ -298,6 +298,7 @@ p.content {
 
 div.danica {
   column-count: 4;
+  column-width: 150px;
   column-gap: 2em;
 }
 
