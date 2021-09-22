@@ -2566,7 +2566,7 @@ ul.alt li:first-child {
   padding-top: 0;
 }
 
-.nobreak {
+div.nobreak {
   break-inside: avoid;
 }
 
