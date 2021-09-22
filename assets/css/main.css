@@ -2566,6 +2566,10 @@ ul.alt li:first-child {
   padding-top: 0;
 }
 
+.nobreak {
+  break-inside: avoid;
+}
+
 dl {
   margin: 0 0 2em 0;
 }
